@@ -6,6 +6,3 @@ Generate finnish invoice reference number.
 $number = 100;
 
 $reference = new Reference($number);
-
-something something
-bla bla
